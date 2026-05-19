@@ -1,6 +1,6 @@
 <!--
-README.md for GitHub profile: github.com/tonykbz26
-Copy everything below into a repository named exactly: tonykbz26
+README.md for GitHub profile: github.com/El-Lebaba
+Copy everything below into a repository named exactly: El-Lebaba
 -->
 
 <div align="center">
@@ -165,9 +165,9 @@ Here are some types of projects I like working on:
 
 <div align="center">
 
-![Tony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tonykbz26&show_icons=true&theme=tokyonight&hide_border=true)
+![Tony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=El-Lebaba&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tonykbz26&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=El-Lebaba&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -193,7 +193,7 @@ I like projects where I can combine logic, design, and learning into one thing.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-tonykbz26-181717?style=for-the-badge&logo=github)](https://github.com/tonykbz26)
+[![GitHub](https://img.shields.io/badge/GitHub-El--Lebaba-181717?style=for-the-badge&logo=github)](https://github.com/El-Lebaba)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tony%20Khabbaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Email](https://img.shields.io/badge/Email-tonykbz26%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tonykbz26@gmail.com)
 
