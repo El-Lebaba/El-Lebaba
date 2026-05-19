@@ -165,9 +165,11 @@ Here are some types of projects I like working on:
 
 <div align="center">
 
-![Tony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=El-Lebaba&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=El-Lebaba&theme=transparent&hide_border=true" alt="GitHub Streak" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=El-Lebaba&layout=compact&theme=tokyonight&hide_border=true)
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=El-Lebaba&theme=transparent" alt="GitHub Profile Summary" />
 
 </div>
 
